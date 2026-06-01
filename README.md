@@ -26,4 +26,4 @@ A Python Turtle-based MRT route visualizer that can:
 3. Run:
 
 ```bash
-python "Shotaro Kanda - Mini Project Code.py"
+python "MRT Route Algorithm"
