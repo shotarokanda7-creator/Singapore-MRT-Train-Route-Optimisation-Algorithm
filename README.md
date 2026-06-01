@@ -26,4 +26,4 @@ A Python Turtle-based MRT route visualizer that can:
 3. Run:
 
 ```bash
-python "MRT Route Algorithm"
+python "MRT_Route_Algorithm.py"
